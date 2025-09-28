@@ -1,5 +1,5 @@
 # AutoIt-Scripts
-Sammlung von nützlichen AutoIt-Scripts
+Sammlung von nützlichen [AutoIt](https://www.autoitscript.com/site/)-Scripts
 
 ## [Expl-Dppl.au3](Expl-Dppl.au3)
 
